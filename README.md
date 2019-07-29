@@ -1,7 +1,7 @@
 # Web Audio API Filter Demo
 
 Demonstrates the filters of the Web Audio API.
-See [Interactive Demo](https://ahysing.github.io/webaudio-filter-demo)
+See [Interactive Demo](https://ahysing.github.io/webaudio-filter-demo/) and listen to the sounds.
 
 ## Contents
 [Allpass](allpass-filter.html)
