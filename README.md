@@ -19,4 +19,4 @@ Just run
 
     make
 
-open [http://localhost:9000/index.html] in your browser.
+Then open [http://localhost:9000/index.html](http://localhost:9000/index.html) in your browser.
