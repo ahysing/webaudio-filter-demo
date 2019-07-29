@@ -1,7 +1,9 @@
 # Web Audio API Filter Demo
 
 Demonstrates the filters of the Web Audio API.
+See [Interactive Demo](https://ahysing.github.io/webaudio-filter-demo)
 
+## Contents
 [Allpass](allpass-filter.html)
 [Bandpass](bandpass-filter.html)
 [Highpass](highpass-filter.html)
